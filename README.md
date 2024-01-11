@@ -73,4 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ```chrome://inspect/#devices```
 # Ref github link
 https://github.com/anil-sidhu/react-pwa-project
+
 https://www.youtube.com/watch?v=LCsnOgLGgh4&list=PL8p2I9GklV46NFHdQMFBjXvxwVqtJpa2N&index=14
